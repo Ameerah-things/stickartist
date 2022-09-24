@@ -1,0 +1,66 @@
+.navbar-brand {
+  padding-left: 20px;
+}
+#top-container {
+  background-color: #ADD9F4;
+  color: #08080B;
+}
+#navbar {
+  padding-left: 20px;
+}
+#buttun {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+#buttun-1 {
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+#title {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+#join {
+  background-color: #a8dadc;
+}
+.row {
+  text-align: center;
+}
+#card-text {
+  color: #fff;
+  }
+#card-text-1 {
+  color: #fff;
+  padding-bottom: 24px
+}
+#Text {
+  padding-left: 40px;
+  }
+#img {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+#About {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+h3 {
+  font-family: 'Lora', serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#card {
+  margin: 20px;
+}
+.body {
+  background-color: #08080B;
+  color: #fff;
+}
+.accordion {
+  padding-left: 30px;
+  padding-right: 30px;
+}
